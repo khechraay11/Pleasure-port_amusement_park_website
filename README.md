@@ -1,5 +1,5 @@
 # Pleasure Port Amusement Park Website
-![Pleasure Port](./Images/Screenshot1.png)
+![Pleasure Port](./Images/Screenshot1.jpg)
 
 Welcome to the Pleasure Port Amusement Park website repository! This project is a static website built using HTML and CSS, showcasing the various attractions and information about our amusement park.
 

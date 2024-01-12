@@ -1,4 +1,5 @@
 # Pleasure Port Amusement Park Website
+![Pleasure Port](./images/screenshot1.png)
 
 Welcome to the Pleasure Port Amusement Park website repository! This project is a static website built using HTML and CSS, showcasing the various attractions and information about our amusement park.
 
@@ -29,7 +30,7 @@ There is no installation required for this project. Simply clone the repository 
 
 ```bash
 git clone https://github.com/khechraay11/Pleasure-port_amusement_park_website.git
-
+```
 ## Usage
 
 1. Open the `index.html` file in your web browser to explore the home page.
